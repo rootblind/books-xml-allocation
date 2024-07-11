@@ -1,0 +1,22 @@
+<books>
+    <book>
+        <id>1</id>
+        <title>Harry Potter</title>
+        <category>Fiction</category>
+    </book>
+    <book>
+        <id>2</id>
+        <title>Introduction to Programming</title>
+        <category>Education</category>
+    </book>
+    <book>
+        <id>3</id>
+        <title>101 Crimes</title>
+        <category>Mystery</category>
+    </book>
+    <book>
+        <id>4</id>
+        <title>Who did it?</title>
+        <category>Mystery</category>
+    </book>
+</books>
